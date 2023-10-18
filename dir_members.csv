@@ -1,0 +1,9 @@
+name,is_dir,parent,size
+root,True,C:\Work\python\dz4\Py4HW08,7342
+files_routine.py,False,C:\Work\python\dz4\Py4HW08,1675
+my_dirs.py,False,C:\Work\python\dz4\Py4HW08,1767
+__init__.py,False,C:\Work\python\dz4\Py4HW08,464
+__pycache__,True,C:\Work\python\dz4\Py4HW08\my_file_utils2,3436
+files_routine.cpython-310.pyc,False,C:\Work\python\dz4\Py4HW08\my_file_utils2,1557
+my_dirs.cpython-310.pyc,False,C:\Work\python\dz4\Py4HW08\my_file_utils2,1415
+__init__.cpython-310.pyc,False,C:\Work\python\dz4\Py4HW08\my_file_utils2,464
